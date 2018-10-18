@@ -18,6 +18,4 @@ extension Array where Element == String {
 
 ["Hello", "World"].concatenate()
 
-// Github test
-
 
